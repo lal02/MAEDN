@@ -1,0 +1,32 @@
+https://www.kribbelbunt.de/fileadmin/user_upload/mensch-aergere-dich-nicht-spiel.png
+https://prnt.sc/q8OMZbvKVW_l
+
+Mensch ärger dich nicht:
+4 Farben
+4 Pieces
+Würfel 1-6
+
+
+Player + Color
+
+Spielfeld:
+nur vorwärts
+feld vor start kann ins ziel abgebogen werden
+
+Spielregeln:
+um piece aus anfangsposition zu starten muss 6 gewürfelt werden
+bei 6 darf man nochmal würfeln
+figuren schlagen möglich => bei schlagen wird zurück zu startposition
+nur eine figur pro feld
+sobald figur auf zielposition kann nicht mehr bewegt werden
+
+1 runde:
+if player has piece on the board -> one roll
+roll the dice
+choose which piece to move
+(test if game is over)
+next player
+
+randfälle
+if last piece -> has to move
+choose target when it can go into finish and also start new round
